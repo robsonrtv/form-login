@@ -1,0 +1,17 @@
+form {
+    margin: 0 auto;
+    width: 400px;
+    padding: 1em; 
+    border: 1px solid #ccc;
+    border-radius: 1em;
+    background-color: #003000;
+    box-sizing: border-box;
+}
+
+label {
+    color: #ccc;
+}
+
+a {
+    color: white;
+}
